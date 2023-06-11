@@ -44,3 +44,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Setup ESLINT && PRETTIER
+
+https://dev.to/thomaslombart/how-to-setup-eslint-and-prettier-for-your-react-apps-1n42
+
+https://andrebnassis.medium.com/setting-prettier-on-a-react-typescript-project-2021-f9f0d5a1d6b0
